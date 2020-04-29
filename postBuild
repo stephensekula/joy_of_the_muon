@@ -4,4 +4,6 @@ jupyter nbextension enable codefolding/main
 jupyter nbextension enable jupyter-js-widgets/extension
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
-jupyter trust pi_lecture.ipynb
+jupyter trust part01_meet_the_muon.ipynb
+jupyter trust part02_spontaneous_decay.ipynb
+
