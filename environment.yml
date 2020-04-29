@@ -10,4 +10,5 @@ dependencies:
   - mplhep
   - zfit
   - scipy
+  - seaborn
   
