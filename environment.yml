@@ -1,4 +1,4 @@
-name: pi_montecarlo_environment
+name: joy_of_muon_environment
 channels:
   - conda-forge
 dependencies:
@@ -7,3 +7,7 @@ dependencies:
   - matplotlib
   - rise
   - pandas
+  - mplhep
+  - zfit
+  - scipy
+  
